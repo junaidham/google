@@ -1,0 +1,33 @@
+Google Pluse API :
+Name - Android client 1
+API key -  AIzaSyBW0RZ8Wj2hADxo0buTW1IbD1KnjjCIGPI 
+
+client ID  -   440688165818-rq9o3hc5mmb64j4a15tinmgmkjsm307t.apps.googleusercontent.com
+
+Android Signing Certificate SHA-1
+C6:22:DD:3B:75:56:CB:A0:9F:4D:8D:B1:E6:70:39:CC:F7:1D:D6:46 
+SHA-1 signing-certificate fingerprint for Key
+[ On Windows : step 1   c:\Cd C:\Program Files\Java\jdk1.8.0_20\bin
+               setp 2:  C:\Program Files\Java\jdk1.8.0_20\bin>keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+]
+Step :
+1- Open CMD (Comand Promt)
+2-  copy the JDK dir and 
+3- make the dir - cd C:\Program Files\Java\jdk1.8.0_20\bin
+4- then compile below command:
+C:\Program Files\Java\jdk1.8.0_20\bin>keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+5- Result show as follow :
+Alias name: androiddebugkey
+Creation date: Nov 2, 2016
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Wed Nov 02 11:26:47 IST 2016 until: Fri Oct 26 11:26:47 IST 2046
+Certificate fingerprints:
+         MD5:  30:6F:09:B7:56:74:FB:F9:C7:B7:CB:98:A1:69:4C:6F
+         SHA1: C6:22:DD:3B:75:56:CB:A0:9F:4D:8D:B1:E6:70:39:CC:F7:1D:D6:46
+         SHA256: EF:C3:5C:A6:24:7E:1E:F2:10:81:23:80:E9:4C:E7:4F:DC:5A:DA:2F:21:
+87:B0:DF:8F:C8:51:C7:A9:39:29:CD
