@@ -1,0 +1,82 @@
+youtube.com/eddydn71	firebase Auth with Phone
+
+Step1- get SHA1 key (in Created firebase project)
+		- take paage name
+		- get sha1 key
+		- take app name
+		- after submit at firebase.comsole then download json file
+		- after paste in you project
+		- after that implement the gradel
+		
+
+
+Google Firebase Database
+https://www.youtube.com/watch?v=P9h6ukPQU_4
+
+
+
+
+firebase Auth with Phone
+Google Firebase Database
+https://www.youtube.com/watch?v=P9h6ukPQU_4
+youtube.com/eddydn71
+
+https://firebase.google.com/
+https://firebase.google.com/docs/
+https://firebase.google.com/docs/android/setup
+https://firebase.google.com/docs/samples/
+https://console.firebase.google.com/
+
+https://firebase.google.com/docs/auth/android/manage-users
+https://firebase.google.com/docs/database/admin/save-data
+https://firebase.google.com/docs/storage/android/upload-files
+
+
+https://www.simplifiedcoding.net/firebase-storage-tutorial-android/
+https://www.androidhive.info/2016/06/android-getting-started-firebase-simple-login-registration-auth/
+https://www.simplifiedcoding.net/firebase-realtime-database-crud/
+https://inducesmile.com/android/android-firebase-email-and-password-login-as-part-of-android-firebase-device-to-device-chat-part-1/
+
+https://code.tutsplus.com/tutorials/image-upload-to-firebase-in-android-application--cms-29934
+
+
+https://www.tutorialspoint.com/firebase/index.htm
+https://www.youtube.com/watch?v=mPOhnTnLcSY
+
+
+
+firebase insert photo in  android
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26aartitiwari@gmail.com	  8802085506
+
+Tech Support & Learn
+http://www.theappguruz.com/
+
+100873747187 Harish Kumr
+csmMMm*$%112
+
+HsMVwp&*@374
+100537914241 Jha
+
